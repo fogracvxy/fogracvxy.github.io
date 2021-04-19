@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rezervacija-lucica-react/static/css/main.bac4d628.chunk.css",
+    "main.js": "/rezervacija-lucica-react/static/js/main.2c65bb7a.chunk.js",
+    "main.js.map": "/rezervacija-lucica-react/static/js/main.2c65bb7a.chunk.js.map",
+    "runtime-main.js": "/rezervacija-lucica-react/static/js/runtime-main.0c9a9981.js",
+    "runtime-main.js.map": "/rezervacija-lucica-react/static/js/runtime-main.0c9a9981.js.map",
+    "static/css/2.d22f252f.chunk.css": "/rezervacija-lucica-react/static/css/2.d22f252f.chunk.css",
+    "static/js/2.381667ad.chunk.js": "/rezervacija-lucica-react/static/js/2.381667ad.chunk.js",
+    "static/js/2.381667ad.chunk.js.map": "/rezervacija-lucica-react/static/js/2.381667ad.chunk.js.map",
+    "index.html": "/rezervacija-lucica-react/index.html",
+    "static/css/2.d22f252f.chunk.css.map": "/rezervacija-lucica-react/static/css/2.d22f252f.chunk.css.map",
+    "static/css/main.bac4d628.chunk.css.map": "/rezervacija-lucica-react/static/css/main.bac4d628.chunk.css.map",
+    "static/js/2.381667ad.chunk.js.LICENSE.txt": "/rezervacija-lucica-react/static/js/2.381667ad.chunk.js.LICENSE.txt",
+    "static/media/loading.330b7d99.svg": "/rezervacija-lucica-react/static/media/loading.330b7d99.svg",
+    "static/media/logo.c6fcaa2b.png": "/rezervacija-lucica-react/static/media/logo.c6fcaa2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c9a9981.js",
+    "static/css/2.d22f252f.chunk.css",
+    "static/js/2.381667ad.chunk.js",
+    "static/css/main.bac4d628.chunk.css",
+    "static/js/main.2c65bb7a.chunk.js"
+  ]
+}
